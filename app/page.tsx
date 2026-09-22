@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Alert, AlertAction, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { InfoIcon } from "lucide-react";
-import { Button } from "@base-ui/react";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
